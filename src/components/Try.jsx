@@ -10,7 +10,7 @@ const Try = () => {
       const API_KEY = '8e958a1d796028dce1a97b74e6a60699';
 
       const URL = `https://api.openweathermap.org/data/2.5/weather?lat=1.0232&lon=7.9465&appid=8e958a1d796028dce1a97b74e6a60699`
-      const gURL = `http://api.openweathermap.org/geo/1.0/direct?q=${location}&units=imperial&appid=8e958a1d796028dce1a97b74e6a60699`
+      const gURL = `https://api.openweathermap.org/geo/1.0/direct?q=${location}&units=imperial&appid=8e958a1d796028dce1a97b74e6a60699`
       
       
 
